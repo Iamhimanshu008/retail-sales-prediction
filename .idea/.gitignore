@@ -1,3 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+# Ignore all model pickle files
+model/*.pkl
+
+# Ignore all large CSV outputs
+output/*.csv

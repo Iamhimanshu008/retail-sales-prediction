@@ -1,0 +1,5 @@
+model/random_forest_model.pkl
+output/predicted_sales.csv
+output/predictions_from_script.csv
+output/batch_predicted_sales.csv
+output/feature_engineered_data.csv

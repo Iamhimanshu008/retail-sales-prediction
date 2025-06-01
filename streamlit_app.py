@@ -1,4 +1,4 @@
-# Streamlit App for Retail Sales Prediction (Refactored)
+# Streamlit App for Retail Sales Prediction
 import streamlit as st
 import pandas as pd
 import numpy as np
